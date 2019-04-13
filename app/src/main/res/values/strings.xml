@@ -1,0 +1,16 @@
+<resources>
+    <!-- Tiêu đề [Giới hạn kí tự = 12] -->
+    <string name="app_name">Từ điển vui </string>
+
+    <!-- Tên danh mục Mẫu câu [Giới hạn kí tự = 20] -->
+    <string name="category_phrases">Mẫu câu</string>
+
+    <!-- Tên danh mục Màu sắc [Giới hạn kí tự = 20] -->
+    <string name="category_colors">Màu sắc</string>
+
+    <!-- Tên danh mục Số [Giới hạn kí tự = 20] -->
+    <string name="category_numbers">Số</string>
+
+    <!-- Tên danh mục Gia Đình [Giới hạn kí tự = 20] -->
+    <string name="category_family">Gia đình</string>
+</resources>

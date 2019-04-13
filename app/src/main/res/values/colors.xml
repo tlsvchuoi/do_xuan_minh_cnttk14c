@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Màu của ứng dụng trên app bar -->
+    <color name="primary_color">#4A312A</color>
+
+    <!-- Màu tối của ứng dụng trên status bar -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Màu nền -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Màu nền cho mục Số -->
+    <color name="category_numbers">#FD8E09</color>
+
+    <!-- MÀu nền cho mục Gia đình -->
+    <color name="category_family">#379237</color>
+
+    <!-- Màu nền mục Màu sắc -->
+    <color name="category_colors">#8800A0</color>
+
+    <!-- Màu nền cho mục Mẫu câu -->
+    <color name="category_phrases">#16AFCA</color>
+</resources>
